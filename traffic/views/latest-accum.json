@@ -1,12 +1,12 @@
 {
-  "timestamp" : "2025-11-19T02:03:57Z",
-  "count_outdated" : 188,
-  "uniques_outdated" : 105,
-  "count" : 189,
-  "uniques" : 106,
+  "timestamp" : "2025-12-02T02:07:51Z",
+  "count_outdated" : 189,
+  "uniques_outdated" : 106,
+  "count" : 190,
+  "uniques" : 107,
   "views" : [
     {
-      "timestamp": "2025-11-05T00:00:00Z",
+      "timestamp": "2025-12-01T00:00:00Z",
       "count": 1,
       "count_minmax": [ 1, 1 ],
       "count_decinc": [ 0, 1 ],
